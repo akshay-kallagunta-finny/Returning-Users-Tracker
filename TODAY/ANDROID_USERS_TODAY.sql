@@ -1,3 +1,7 @@
+-- need to modify this query 
+
+
+
 WITH user_activity AS (
     SELECT DISTINCT
         ud.user_id,
