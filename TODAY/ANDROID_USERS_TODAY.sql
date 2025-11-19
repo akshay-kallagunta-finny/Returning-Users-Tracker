@@ -39,3 +39,4 @@ SELECT
 FROM per_user
 WHERE has_android = 1 AND has_ios = 0
 ORDER BY latest_login_time DESC;
+-- need to modify
